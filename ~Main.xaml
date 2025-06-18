@@ -249,6 +249,7 @@
       <AssemblyReference>UiPath.UIAutomationNext</AssemblyReference>
       <AssemblyReference>UiPath.UIAutomationNext.Activities</AssemblyReference>
       <AssemblyReference>NPOI.Core</AssemblyReference>
+      <AssemblyReference>GlobalVariablesT1PNoYwrqg</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence sap2010:Annotation.AnnotationText="Process supplier details by extracting emails and downloading attachments" DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="848.6666666666665,950.6666666666667" sap2010:WorkflowViewState.IdRef="Sequence_1">

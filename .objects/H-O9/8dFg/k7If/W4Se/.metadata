@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Supplier Management Sys…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "W4SeyVT0CkaYwf-cyTq33A",
+  "Reference": "lfIxZhwcUE-cYHQCJU5ynA/W4SeyVT0CkaYwf-cyTq33A",
+  "ParentRef": "lfIxZhwcUE-cYHQCJU5ynA/k7Ifp0XLCE2Jd3xB01gO8w",
+  "Created": "2025-06-18T15:09:37.0204891Z",
+  "Updated": "2025-06-18T15:09:37.0204891Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

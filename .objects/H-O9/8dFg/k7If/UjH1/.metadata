@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Export CSV",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "UjH1uISyR0KrfZ-m2xbiKA",
+  "Reference": "lfIxZhwcUE-cYHQCJU5ynA/UjH1uISyR0KrfZ-m2xbiKA",
+  "ParentRef": "lfIxZhwcUE-cYHQCJU5ynA/k7Ifp0XLCE2Jd3xB01gO8w",
+  "Created": "2025-06-18T15:12:56.7529424Z",
+  "Updated": "2025-06-18T15:12:56.7529424Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

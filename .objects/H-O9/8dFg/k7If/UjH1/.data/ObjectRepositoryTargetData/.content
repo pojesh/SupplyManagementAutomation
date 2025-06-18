@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PbspGIgoDE2sW9wtPJ6_Ww" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com/suppliers" CVScreenId="cb4f2725-a954-4e8f-8a51-eeb4c273c946" CvElementArea="2308, 656, 144, 58" CvTextArea="2327, 675, 109, 24" CvTextArgument="Export CSV" CvType="Button" DesignTimeRectangle="2320, 669, 124, 31" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Export CSV' parentid='controlWrapper' tag='SPAN' /&gt;" Guid="f2d468c1-9ed5-45b5-af7e-1f70c39dbbe0" ScopeSelectorArgument="&lt;html app='msedge.exe' title='UiPath Demo App' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cb4f2725-a954-4e8f-8a51-eeb4c273c946" CvElementArea="2308, 656, 144, 58" CvTextArea="2327, 675, 109, 24" CvTextArgument="Export CSV" CvType="Button" DesignTimeRectangle="2312, 658, 140, 53" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='export-btn' aaname='Export CSV' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Export CSV' /&gt;" Guid="7e5ee778-b0c7-487b-aad9-a1cf841db12f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="95a83191eb5dc055cb973237c109b91a.png" xmlns="">0sdp37quRXUCYqvsnOIVeRA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

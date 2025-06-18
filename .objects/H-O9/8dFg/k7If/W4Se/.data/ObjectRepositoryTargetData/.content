@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oEyoCvORxEeDiSm7c3DvIA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpasamples.com" DesignTimeRectangle="1292, 278, 317, 347" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='                     Supplier Management System                 ' tag='A' /&gt;" Guid="1833d423-0ec4-4aea-8c4c-b20554b3fbbf" ScopeSelectorArgument="&lt;html app='msedge.exe' title='RPA Sample Apps' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="27309d86592c86dd977c1e4345f0fbe5.png" xmlns="">02FSK4FW6LUSxeKrHVJaB9A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

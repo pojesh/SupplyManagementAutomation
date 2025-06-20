@@ -3,6 +3,16 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ListOfSuppliers&9f35a95c-dfe3-420e-8e3b-8cb4bae253ec"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": null,
+      "SortBy": 0,
       "VariablesSectionElementsOrder": null,
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
